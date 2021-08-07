@@ -1,0 +1,28 @@
+html, body
+{
+  height: 100%;
+  margin: 50;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #7ebff0, #54aae4, #46a4da, #278cc2, #137cad);
+}
+
+
+.roomname_div{
+    background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+}
+
+
+#logoutb{
+    width: 90px;
+    height: 50px;
+}
+
+#addrooms{
+    width: 90px;
+    height: 50px;
+}
